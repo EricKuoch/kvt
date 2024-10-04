@@ -1,0 +1,69 @@
+date;amount;transaction_type;payment_type
+02/01/24;30;Cordonnerie;Espèces
+02/01/24;20;Clés;Espèces
+02/01/24;12;Vente Mses;Espèces
+03/01/24;30;Cordonnerie;Espèces
+03/01/24;40;Clés;Espèces
+03/01/24;10;Vente Mses;Espèces
+04/01/24;35;Cordonnerie;Espèces
+04/01/24;18;Clés;Espèces
+04/01/24;12;Vente Mses;Espèces
+05/01/24;30;Cordonnerie;Espèces
+05/01/24;35;Vente Mses;Espèces
+06/01/24;30;Cordonnerie;Espèces
+06/01/24;20;Clés;Espèces
+08/01/24;35;Cordonnerie;Espèces
+08/01/24;15;Clés;Espèces
+08/01/24;10;Vente Mses;Espèces
+09/01/24;20;Cordonnerie;Espèces
+09/01/24;18;Clés;Espèces
+10/01/24;30;Cordonnerie;Espèces
+10/01/24;18;Clés;Espèces
+10/01/24;10;Vente Mses;Espèces
+11/01/24;20;Cordonnerie;Espèces
+11/01/24;14;Clés;Espèces
+12/01/24;38;Cordonnerie;Espèces
+12/01/24;15;Clés;Espèces
+12/01/24;12;Vente Mses;Espèces
+13/01/24;20;Cordonnerie;Espèces
+13/01/24;20;Clés;Espèces
+15/01/24;30;Cordonnerie;Espèces
+15/01/24;28;Clés;Espèces
+15/01/24;30;Vente Mses;Espèces
+16/01/24;35;Cordonnerie;Espèces
+16/01/24;20;Clés;Espèces
+18/01/24;20;Cordonnerie;Espèces
+18/01/24;15;Clés;Espèces
+18/01/24;10;Vente Mses;Espèces
+19/01/24;30;Cordonnerie;Espèces
+19/01/24;20;Clés;Espèces
+19/01/24;12;Vente Mses;Espèces
+20/01/24;35;Cordonnerie;Espèces
+20/01/24;18;Clés;Espèces
+20/01/24;10;Vente Mses;Espèces
+22/01/24;30;Cordonnerie;Espèces
+22/01/24;20;Clés;Espèces
+22/01/24;15;Vente Mses;Espèces
+23/01/24;30;Cordonnerie;Espèces
+23/01/24;14;Clés;Espèces
+24/01/24;35;Cordonnerie;Espèces
+24/01/24;15;Clés;Espèces
+24/01/24;15;Vente Mses;Espèces
+25/01/24;25;Cordonnerie;Espèces
+25/01/24;20;Clés;Espèces
+25/01/24;10;Vente Mses;Espèces
+26/01/24;30;Cordonnerie;Espèces
+26/01/24;40;Clés;Espèces
+27/01/24;25;Cordonnerie;Espèces
+27/01/24;14;Clés;Espèces
+29/01/24;30;Cordonnerie;Espèces
+29/01/24;14;Clés;Espèces
+29/01/24;10;Vente Mses;Espèces
+30/01/24;30;Cordonnerie;Espèces
+30/01/24;20;Clés;Espèces
+30/01/24;12;Vente Mses;Espèces
+31/01/24;27;Cordonnerie;Espèces
+31/01/24;15;Clés;Espèces
+31/01/24;35;Vente Mses;Espèces
+31/01/24;35;Vente Mses;Chèques
+

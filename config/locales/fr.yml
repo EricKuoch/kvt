@@ -1,0 +1,9 @@
+fr:
+  payment_types:
+    Espèces: cash
+    Chèques: check
+    Carte: card
+  transaction_types:
+    Cordonnerie: shoe_repair
+    Clés: key
+    Vente Mses: diverses
